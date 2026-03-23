@@ -253,18 +253,5 @@ With
 
 ---
 
-# 🚀 Portfolio Insight (IMPORTANT)
-
-This project demonstrates:
-- Basic ML understanding  
-- Cybersecurity application  
-- SOC-level thinking  
-
-👉 Strong foundation for:
-- SOC Analyst  
-- Cybersecurity Engineer  
-- AI Security Analyst  
-
----
 
 ## ✍️ Notes By Abhishek (Ez Abyss)
